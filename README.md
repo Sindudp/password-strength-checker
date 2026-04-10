@@ -29,3 +29,8 @@ A cybersecurity tool built in Python that analyzes password strength using multi
 ## ⚙️ Installation
 
 1. Clone the repository:
+
+## 👨‍💻 Author
+
+- **Sindu D.P**
+- GitHub: https://github.com/Sindudp
